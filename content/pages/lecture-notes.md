@@ -168,7 +168,7 @@ Meta-theory: Soundness of PD, PD+, PDE
 Meta-theory: Completeness of PD
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_241f09_lec23))
+([PDF]({{< baseurl >}}/resources/mit24_241f09_lec23))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -183,7 +183,7 @@ Meta-theory: Completeness of PD
 Meta-theory: Completeness continued; PD+; PDE
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit24_241f09_lec24))
+([PDF]({{< baseurl >}}/resources/mit24_241f09_lec24))
 {{< tdclose >}}
 {{< tdopen >}}
  
